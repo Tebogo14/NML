@@ -1,0 +1,9 @@
+C:\Users\tebog\Downloads\Nml.Improve.Me\Nml.Improve.Me\bin\Debug\netcoreapp3.1\Nml.Improve.Me.deps.json
+C:\Users\tebog\Downloads\Nml.Improve.Me\Nml.Improve.Me\bin\Debug\netcoreapp3.1\Nml.Improve.Me.dll
+C:\Users\tebog\Downloads\Nml.Improve.Me\Nml.Improve.Me\bin\Debug\netcoreapp3.1\Nml.Improve.Me.pdb
+C:\Users\tebog\Downloads\Nml.Improve.Me\Nml.Improve.Me\obj\Debug\netcoreapp3.1\Nml.Improve.Me.csprojAssemblyReference.cache
+C:\Users\tebog\Downloads\Nml.Improve.Me\Nml.Improve.Me\obj\Debug\netcoreapp3.1\Nml.Improve.Me.AssemblyInfoInputs.cache
+C:\Users\tebog\Downloads\Nml.Improve.Me\Nml.Improve.Me\obj\Debug\netcoreapp3.1\Nml.Improve.Me.AssemblyInfo.cs
+C:\Users\tebog\Downloads\Nml.Improve.Me\Nml.Improve.Me\obj\Debug\netcoreapp3.1\Nml.Improve.Me.csproj.CoreCompileInputs.cache
+C:\Users\tebog\Downloads\Nml.Improve.Me\Nml.Improve.Me\obj\Debug\netcoreapp3.1\Nml.Improve.Me.dll
+C:\Users\tebog\Downloads\Nml.Improve.Me\Nml.Improve.Me\obj\Debug\netcoreapp3.1\Nml.Improve.Me.pdb
